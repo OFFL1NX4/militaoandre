@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/187a7cb7a794266605b5ac9555f27a12/tumblr_oza4jzb04u1qjhnbko7_r1_500.gifv" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/18/46/8b/18468b67486464869f8fa0b3300f0012.gif" width="600" height="300"/>
 </div>
 
 ### About Me :
