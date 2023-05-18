@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/18/46/8b/18468b67486464869f8fa0b3300f0012.gif" width="600" height="300"/>
+  <img src="https://cdn.dribbble.com/users/219147/screenshots/3141321/media/47eac93ab85ab1f94ccaed6bc7cba02a.gif" width="600" height="300"/>
 </div>
 
 ### About Me :
