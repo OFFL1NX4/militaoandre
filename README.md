@@ -12,7 +12,7 @@
 </div>
 <div id="heythere" align="center">
   <h1>
- Welcome to my profile! My name is André, it's a pleasure to welcome you here.
+Bem-vindo ao meu perfil! Meu nome é André, é um prazer recebê-lo aqui.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
