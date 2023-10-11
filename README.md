@@ -42,7 +42,7 @@ I am trying to be alive. <img src="https://media.giphy.com/media/J2yDvX0N4GpAdHO
 
 ### My status on github
 
-![OFFL1NX4](https://github-readme-stats.vercel.app/api?username=militaoandre&show_icons=true&theme=radical)
+![OFFL1NX4](https://github-readme-stats.vercel.app/api?username=andre-militao&show_icons=true&theme=radical)
 
 
 
