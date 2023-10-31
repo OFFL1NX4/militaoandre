@@ -2,9 +2,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/l4pMdRYrYUKI6I2ZO/giphy.gif?cid=ecf05e47rkgquqdknf1tdi228dvn8oxcyiqoepghwlq7wruu&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://discordapp.com/users/VVinter#8370">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+
   </a>
 </div>
 <div id="viewprof" align="center">
