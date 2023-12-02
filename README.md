@@ -27,7 +27,7 @@ I am trying to be alive. <img src="https://media.giphy.com/media/J2yDvX0N4GpAdHO
 
 
 ---
-### :hammer_and_wrench: Linguagens e Ferramentas:
+### Linguagens e Ferramentas:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
